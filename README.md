@@ -1,4 +1,5 @@
 - 👋 Hi, I’m **Paul Ndambo**
+-  ✨ Am an experienced **Software Engineer** with over **3** years of experience main focusing on **Backend Development**.
 - 👀 I’m interested in **Python(Django & FastAPI), Docker, Kubernetes & AWS**.
 - 🌱 I’m currently learning **ReactJs & TypeScript**.
 - 💞️ I’m looking to collaborate on **Fintech, Insuretech etc...**
