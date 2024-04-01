@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Python(Django & FastAPI), Docker, Kubernetes & AWS**.
 - 🌱 I’m currently learning **ReactJs & TypeScript**.
 - 💞️ I’m looking to collaborate on **Fintech, Insuretech etc...**
-- 📫 How to reach me **paulkadabo@gmail.com**
+- 📫 How to reach me **paulkadabo@gmail.com / +254745491093**
 - 😄 Pronouns: **He/Him**
 
 <!---
