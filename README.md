@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Paul Ndambo**
 -  ✨ Am an experienced **Software Engineer** with over **3** years of experience mainly focusing on **Backend Development**.
-- 👀 I’m interested in **Python(Django & FastAPI), JavaScript(ExpressJs), Docker, Kubernetes & AWS**.
+- 👀 I’m interested in **Python(Django & FastAPI), JavaScript(ExpressJs & NestJs), Docker, Kubernetes & AWS**.
 - 🌱 I’m currently learning **ReactJs & TypeScript**.
 - 💞️ I’m looking to collaborate on **Fintech, Insuretech etc...**
 - 📫 How to reach me **paulkadabo@gmail.com / +254745491093**
